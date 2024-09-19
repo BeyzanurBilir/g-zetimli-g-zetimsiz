@@ -12,3 +12,5 @@ sonuç olarak başarı oranı %92 olarak görülmektedir.
 
 Farklı algoritmalar ile yapılan gözetimsiz egitimde ise alınan veriler şu şekildedir:
 
+
+Kullanılan öğrenme metodları karşılaştırıldığında gözetimli öğrenmenin bu veri seti için daha kullanışlı olduğu görülmektedir.
